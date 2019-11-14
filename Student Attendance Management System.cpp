@@ -180,7 +180,7 @@ int main()
         ofstream file2;
         cout<<endl;
         cout<<"                     STUDENT ATTENDANCE MAINTAINANCE SYSTEM                "<<endl;
-        cout<<"                   ------------------------------------------              "<<endl<<end;
+        cout<<"                   ------------------------------------------              "<<endl<<endl;
         cout<<":::::::::::::::::::      ENTER ANY KEY TO SELECT OPTIONS     :::::::::::::::::::"<<endl;
         cin>>a;
         cout<<endl;
