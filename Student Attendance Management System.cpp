@@ -126,7 +126,7 @@ int attend::enter()//update the attendance
                 		cout<<endl;
                 		break;
 						default://To exit 
-				_exit(0);
+				exit(0);
             	}
                 cout<<">>ENTER 1 TO TO UPDATE ANOTHER DAY ELSE 0  :";
                 cin>>i;
