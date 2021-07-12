@@ -25,7 +25,7 @@ int attend::enter()//update the attendance
                 {
                 		if(date>31||date==0)
                 		{
-							c=0;
+							c=0;kk
 						}
 						else
 						{
